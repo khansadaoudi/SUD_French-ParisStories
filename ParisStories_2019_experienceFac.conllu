@@ -11,7 +11,7 @@
 7	d'	de	ADP	_	_	10	mod	_	ExtPos=ADV|Idiom=Yes|SpaceAfter=No
 8	abord	abord	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	InIdiom=Yes
 9	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	10	subj	_	_
-10	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
 11	préciser	préciser	VERB	_	VerbForm=Inf	10	comp:obj	_	Subject=SubjRaising
 12	que	que	SCONJ	_	_	11	comp:obj	_	_
 13	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	14	subj	_	SpaceAfter=No
@@ -21,6 +21,7 @@
 17	gros	gros	ADJ	_	Gender=Masc|Number=Sing	18	mod	_	_
 18	rhume	rhume	NOUN	_	Gender=Masc|Number=Sing	14	comp:obj	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	10	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_2
 # text = d'où le fait que j'ai une magnifique voix de canard.
@@ -38,6 +39,7 @@
 11	de	de	ADP	_	_	10	udep	_	_
 12	canard	canard	NOUN	_	Gender=Masc|Number=Sing	11	comp:obj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	1	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_3
 # text = euh bon sinon blague à part, je vais parler de mon arrivée à la fac.
@@ -60,6 +62,7 @@
 16	fac	fac	NOUN	_	Gender=Fem|Number=Sing	14	comp:obj	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	9	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_4
 # text = mais honnêtement je me rappelle déjà plus de ma rentrée, de cette année.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -78,6 +81,7 @@
 13	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	14	det	_	_
 14	année	année	NOUN	_	Gender=Fem|Number=Sing	12	comp:obj	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	5	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_5
 # text = mais euh je me rappelle à peu près de mon impression quand je suis arrivée euh l'année dernière pour la première fois.
@@ -107,6 +111,7 @@
 23	fois	fois	NOUN	_	Gender=Fem|Number=Sing	20	comp:obj	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	5	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_6
 # text = en fait je m'attendais pas à ça,
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -119,6 +124,7 @@
 7	à	à	ADP	_	_	5	comp:obl	_	_
 8	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	comp:obj	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	5	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_7
 # text = j'ai eu l'impression que c'était euh comme une grande fourmilière.
@@ -137,6 +143,7 @@
 12	grande	grand	ADJ	_	Gender=Fem|Number=Sing	13	mod	_	_
 13	fourmilière	fourmilier	NOUN	_	Gender=Fem|Number=Sing	10	comp:obj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_8
 # text = je sais pas si vous voyez par exemple euh quand le matin aux heures de pointe vous voulez prendre le métro ?
@@ -166,6 +173,7 @@
 22	métro	métro	NOUN	_	Gender=Masc|Number=Sing	20	comp:obj	_	_
 23	?	?	PUNCT	_	_	2	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_9
 # text = bah souvent il y a plusieurs trains qui arrivent en même temps.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -182,6 +190,7 @@
 11	même	même	ADJ	_	Gender=Masc|Number=Sing	12	mod	_	_
 12	temps	temps	NOUN	_	Gender=Masc|Number=Sing	10	comp:obj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	5	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_10
 # text = et du coup euh il y a plein de monde qui court vers le métro euh.
@@ -206,6 +215,7 @@
 17	euh	euh	INTJ	_	_	8	discourse	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	8	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_11
 # text = ça grouille dans tous les sens,
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -216,6 +226,7 @@
 5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	sens	sens	NOUN	_	Gender=Masc|Number=Plur	3	comp:obj	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	2	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_12
 # text = les gens crient, euh se poussent même parfois s'insultent.
@@ -233,6 +244,7 @@
 11	insultent	insulter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj:coord	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_13
 # text = bah la fac c'était un peu la même chose.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -247,6 +259,7 @@
 9	même	même	ADJ	_	Gender=Fem|Number=Sing	10	mod	_	_
 10	chose	chose	NOUN	_	Gender=Fem|Number=Sing	5	comp:pred	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_14
 # text = euh j'avais l'impression que il y avait d'énormes bâtiments avec des gens mais partout, mais vraiment partout !
@@ -274,6 +287,7 @@
 21	partout	partout	ADV	_	_	17	conj:dicto	_	_
 22	!	!	PUNCT	_	_	3	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_15
 # text = puis ça pleure,
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -282,6 +296,7 @@
 3	pleure	pleurer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_16
 # text = ça rit,
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -289,12 +304,14 @@
 2	rit	rire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_17
 # text = ça crie,
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
 1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	subj	_	_
 2	crie	crier	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_18
 # text = c'est content,
@@ -304,12 +321,14 @@
 3	content	content	ADJ	_	Gender=Masc|Number=Sing	2	comp:pred	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_19
 # text = c'est,
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
 1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	subj	_	SpaceAfter=No
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_20
 # text = bon j'ai souvent remarqué qu'en période d'examens on a plutôt l'impression que les gens sont déprimés hein !
@@ -337,6 +356,7 @@
 21	hein	hein	INTJ	_	_	3	discourse	_	_
 22	!	!	PUNCT	_	_	3	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_21
 # text = mais par exemple là la rentrée euh bon les gens sont plutôt heureux,
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -355,6 +375,7 @@
 13	heureux	heureux	ADJ	_	Gender=Masc|Number=Plur	11	comp:pred	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	11	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_22
 # text = ils se racontent leurs vacances.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -364,6 +385,7 @@
 4	leurs	son	DET	_	Number=Plur|Number[psor]=Plur|Person[psor]=3|PronType=Prs	5	det	_	_
 5	vacances	vacance	NOUN	_	Gender=Fem|Number=Plur	3	comp:obj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_23
 # text = ils sont contents de retrouver leurs leurs amis enfin voilà.
@@ -379,6 +401,7 @@
 9	enfin	enfin	ADV	_	_	2	discourse	_	ExtPos=INTJ
 10	voilà	voilà	VERB	_	_	2	discourse	_	ExtPos=INTJ|SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_24
 # text = après je trouve euh la fac c'est un peu euh complètement dispro~ disproportionné.
@@ -399,6 +422,7 @@
 14	disproportionné	disproportionner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	conj:dicto	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	3	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_25
 # text = euh peut y avoir des amphis énormes.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -410,6 +434,7 @@
 6	amphis	amphi	NOUN	_	Gender=Masc|Number=Plur	4	comp:obj	_	_
 7	énormes	énorme	ADJ	_	Gender=Masc|Number=Plur	6	mod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_26
 # text = et d'un autre côté il peut y avoir des salles toutes petites où on va être complètement serrés dedans.
@@ -436,6 +461,7 @@
 20	dedans	dedans	ADV	_	_	19	mod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	7	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_27
 # text = c'est euh un monde complètement à part, euh complétement différent du lycée.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -456,6 +482,7 @@
 14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	lycée	lycée	NOUN	_	Gender=Masc|Number=Sing	13	comp:obj	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	2	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_28
 # text = même pour le fonctionnement des cours, je trouve que, alors je sais pas c'est plus libre c'est plus sympa.
@@ -486,6 +513,7 @@
 23	plus	plus	ADV	_	_	24	mod	_	_
 24	sympa	sympa	ADJ	_	Gender=Masc|Number=Sing	22	comp:pred	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	10	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_29
 # text = mais euh bon après le côté négatif c'est que du coup faut faut réussir à se mettre un peu au boulot.
@@ -518,6 +546,7 @@
 24	boulot	boulot	NOUN	_	Gender=Masc|Number=Sing	22	comp:obj	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	9	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_30
 # text = je sais que euh bon bah moi parfois je fais un peu ma flemmarde hein,
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -538,6 +567,7 @@
 15	hein	hein	INTJ	_	_	2	discourse	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	2	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_31
 # text = et je me retrouve un peu débordée à la fin du semestre.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -556,6 +586,7 @@
 12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	semestre	semestre	NOUN	_	Gender=Masc|Number=Sing	11	comp:obj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	4	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_32
 # text = mais bon euh après l'essentiel c'est quand même de réussir à valider.
@@ -576,6 +607,7 @@
 14	valider	valider	VERB	_	VerbForm=Inf	13	comp:obj	_	SpaceAfter=No|Subject=NoRaising
 15	.	.	PUNCT	_	_	8	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_33
 # text = et jusqu'à présent bah j'ai réussi.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -588,6 +620,7 @@
 7	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	réussi	réussir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	comp:aux@tense	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_34
 # text = maintenant on croise les doigts aussi pour la troisième année,
@@ -604,12 +637,14 @@
 10	année	année	NOUN	_	Gender=Fem|Number=Sing	7	comp:obj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	3	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_35
 # text = donc voilà !
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
 1	donc	donc	ADV	_	_	2	mod	_	_
 2	voilà	voilà	VERB	_	_	0	root	_	_
 3	!	!	PUNCT	_	_	2	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_36
 # text = euh après non je pense que la fac c'est quand même une bonne expérience, parce que euh bah déjà j'ai fait des super rencontres.
@@ -643,6 +678,7 @@
 27	rencontres	rencontre	NOUN	_	Gender=Fem|Number=Plur	24	comp:obj	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	5	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_37
 # text = j'ai des copines euh actuellement euh, je m'entends super bien avec.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -662,6 +698,7 @@
 14	avec	avec	ADP	_	_	11	comp:obl	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	11	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_38
 # text = et euh enfin voilà c'est c'est sympa.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -675,6 +712,7 @@
 8	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj:dicto	_	_
 9	sympa	sympa	ADJ	_	Gender=Masc|Number=Sing	8	comp:pred	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	6	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_39
 # text = puis il y a pas mal de trucs d'organisés comme les afterworks le jeudi.
@@ -696,6 +734,7 @@
 15	jeudi	jeudi	NOUN	_	Gender=Masc|Number=Sing	13	mod	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	4	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_40
 # text = bon euh pour être honnête j'en ai fait qu'un seul l'année dernière,
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -716,6 +755,7 @@
 15	dernière	dernier	ADJ	_	Gender=Fem|Number=Sing	14	mod	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	8	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_41
 # text = c'était euh celui sur le thème d'Harry Potter.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -731,6 +771,7 @@
 10	Potter	Potter	PROPN	_	_	9	flat@name	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_42
 # text = euh il y avait un quizz,
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -741,6 +782,7 @@
 5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	quizz	quizz	NOUN	_	Gender=Masc|Number=Sing	4	comp:obj	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_43
 # text = bon euh on n'a pas gagné malheureusement.
@@ -755,6 +797,7 @@
 8	malheureusement	malheureusement	ADV	_	_	5	mod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_44
 # text = mais euh on n'était pas loin,
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -767,6 +810,7 @@
 7	loin	loin	ADV	_	_	5	mod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	5	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_45
 # text = on n'était pas loin.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -776,6 +820,7 @@
 4	pas	pas	ADV	_	Polarity=Neg	3	mod	_	_
 5	loin	loin	ADV	_	_	3	mod	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_46
 # text = et euh franchement c'était une soirée super euh sympa.
@@ -792,6 +837,7 @@
 10	sympa	sympa	ADJ	_	Gender=Fem|Number=Sing	7	mod	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_47
 # text = j'ai beaucoup euh j'ai beaucoup apprécié.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -804,6 +850,7 @@
 7	beaucoup	beaucoup	ADV	_	_	6	mod	_	_
 8	apprécié	apprécier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	comp:aux@tense	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_48
 # text = après il y a pas mal de trucs d'organisés,
@@ -819,6 +866,7 @@
 9	d'	de	ADP	_	_	8	udep	_	SpaceAfter=No
 10	organisés	organisé	ADJ	_	Gender=Masc|Number=Plur	9	comp:obj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	4	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_49
 # text = je sais que voilà l'année dernière il y avait euh les tote bags euh avec Asos.
@@ -842,6 +890,7 @@
 17	Asos	Asos	PROPN	_	_	16	comp:obj	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	2	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_50
 # text = c'était un truc très sympa.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -853,6 +902,7 @@
 6	sympa	sympa	ADJ	_	Gender=Masc|Number=Sing	4	mod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_51
 # text = euh il y avait le bal,
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -863,6 +913,7 @@
 5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	bal	bal	NOUN	_	Gender=Masc|Number=Sing	4	comp:obj	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_52
 # text = bon j'y suis pas allée, euh je sais plus pourquoi.
@@ -881,6 +932,7 @@
 12	pourquoi	pourquoi	ADV	_	_	10	comp:obj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_53
 # text = peut-être que je pouvais pas.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -890,6 +942,7 @@
 4	pouvais	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
 5	pas	pas	ADV	_	Polarity=Neg	4	mod	_	SpaceAfter=No
 6	.	_	PUNCT	_	_	4	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_54
 # text = ou alors j'avais peut-être la flemme.
@@ -903,6 +956,7 @@
 7	flemme	flemme	NOUN	_	Gender=Fem|Number=Sing	4	comp:obj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_55
 # text = je sais plus exactement.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -911,6 +965,7 @@
 3	plus	plus	ADV	_	_	2	mod	_	_
 4	exactement	exactement	ADV	_	_	2	mod	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_56
 # text = mais bon j'y suis pas allée.
@@ -923,6 +978,7 @@
 6	pas	pas	ADV	_	Polarity=Neg	5	mod	_	_
 7	allée	aller	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	comp:aux@tense	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_57
 # text = mais on m'a dit que c'était génial.
@@ -938,6 +994,7 @@
 9	génial	génial	ADJ	_	Gender=Masc|Number=Sing	8	comp:pred	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_58
 # text = j'ai vu pas mal de photos,
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -950,6 +1007,7 @@
 7	photos	photo	NOUN	_	Gender=Fem|Number=Plur	6	comp:obj	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	2	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_59
 # text = ça avait l'air top.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -959,6 +1017,7 @@
 4	air	air	NOUN	_	Gender=Masc|Number=Sing	2	comp:obj@lvc	_	_
 5	top	top	ADJ	_	Gender=Masc|Number=Sing	4	comp:pred	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_60
 # text = donc que ouais euh je pense que euh c'est un truc sympa à à côté de l'enseignement.
@@ -984,6 +1043,7 @@
 19	enseignement	enseignement	NOUN	_	Gender=Masc|Number=Sing	17	comp:obj	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	6	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_61
 # text = je pense que c'est quand même quelque chose de très humain.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -1001,6 +1061,7 @@
 12	humain	humain	ADJ	_	Gender=Masc|Number=Sing	10	comp:obj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_62
 # text = on on apprend sur nous.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -1010,6 +1071,7 @@
 4	sur	sur	ADP	_	_	3	mod	_	_
 5	nous	nous	PRON	_	_	4	comp:obj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_63
 # text = on apprend à à découvrir d'autres personnes.
@@ -1023,6 +1085,7 @@
 7	autres	autre	ADJ	_	Gender=Fem|Number=Plur	8	mod	_	_
 8	personnes	personne	NOUN	_	Gender=Fem|Number=Plur	5	comp:obj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_64
 # text = moi je sais que moi mon lycée, en plus c'était un lycée privé.
@@ -1044,6 +1107,7 @@
 15	privé	privé	ADJ	_	Gender=Masc|Number=Sing	14	mod	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	3	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_65
 # text = euh j'y suis allée du CP à la terminale.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -1061,6 +1125,7 @@
 11	terminale	terminale	NOUN	_	Gender=Fem|Number=Sing	9	comp:obj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	4	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_66
 # text = j'ai bon souvent fréquenté les mêmes personnes,
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -1073,6 +1138,7 @@
 7	mêmes	même	ADJ	_	Gender=Fem|Number=Plur	8	mod	_	_
 8	personnes	personne	NOUN	_	Gender=Fem|Number=Plur	5	comp:obj	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	2	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_67
 # text = et là en fait en arrivant à la fac bah j'ai découvert un peu d'autres d'autres mondes, des gens qui venaient de partout ailleurs.
@@ -1107,6 +1173,7 @@
 28	ailleurs	ailleurs	ADV	_	_	26	comp:obj	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	12	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_68
 # text = et puis enfin c'était sympa.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -1117,6 +1184,7 @@
 5	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 6	sympa	sympa	ADJ	_	Gender=Masc|Number=Sing	5	comp:pred	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_69
 # text = j'ai découvert de nouvelles cultures, de nouvelles méthodes d'apprentissage.
@@ -1134,6 +1202,7 @@
 11	d'	de	ADP	_	_	10	udep	_	SpaceAfter=No
 12	apprentissage	apprentissage	NOUN	_	Gender=Masc|Number=Sing	11	comp:obj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_70
 # text = et c'est quelque chose de bah que j'ai eu plaisir à découvrir.
@@ -1154,6 +1223,7 @@
 14	découvrir	découvrir	VERB	_	VerbForm=Inf	13	comp:pred	_	SpaceAfter=No|Subject=SubjRaising
 15	.	.	PUNCT	_	_	3	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_71
 # text = après je dis pas non plus que j'aime tous les cours hein !
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -1172,12 +1242,14 @@
 13	hein	hein	INTJ	_	_	3	discourse	_	_
 14	!	!	PUNCT	_	_	3	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_72
 # text = voilà comme…
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
 1	voilà	voilà	VERB	_	_	0	root	_	_
 2	comme	comme	SCONJ	_	_	1	mod	_	SpaceAfter=No
 3	…	…	PUNCT	_	_	1	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_73
 # text = c'est comme tout.
@@ -1187,6 +1259,7 @@
 3	comme	comme	ADP	_	_	2	comp:pred	_	_
 4	tout	tout	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	comp:obj	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_74
 # text = il y a des cours que j'aime, d'autres que j'aime moins.
@@ -1207,6 +1280,7 @@
 14	aime	aimer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	mod@relcl	_	_
 15	moins	moins	ADV	_	_	14	mod	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	3	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_75
 # text = mais euh je pense que c'est comme ça qu'après on se spécialise et qu'on choisit ce qu'on veut faire plus tard.
@@ -1238,6 +1312,7 @@
 25	tard	tard	ADV	_	_	23	mod	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	4	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_76
 # text = on peut pas tous aimer les mêmes choses, euh enfin voilà.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -1254,6 +1329,7 @@
 11	enfin	enfin	ADV	_	_	2	discourse	_	ExtPos=INTJ
 12	voilà	voilà	VERB	_	_	2	discourse	_	ExtPos=INTJ|SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_77
 # text = donc euh ouais non je pense que la fac c'est, c'est quelque chose d'assez bénéfique,
@@ -1279,6 +1355,7 @@
 19	bénéfique	bénéfique	ADJ	_	Gender=Masc|Number=Sing	17	comp:obj	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	6	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_78
 # text = enfin moi ça m'apporte euh beaucoup.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -1290,6 +1367,7 @@
 6	euh	euh	INTJ	_	_	7	discourse	_	_
 7	beaucoup	beaucoup	ADV	_	_	5	mod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_79
 # text = même si euh bon bah voilà, c'est pas drôle faut travailler, il y a les devoirs, tout ça c'est quand même quelque chose euh ouais d'hu~ d'humain.
@@ -1330,6 +1408,7 @@
 34	humain	humain	ADJ	_	Gender=Masc|Number=Sing	33	comp:obj	_	SpaceAfter=No
 35	.	.	PUNCT	_	_	24	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_80
 # text = on apprend sur soi,
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -1338,6 +1417,7 @@
 3	sur	sur	ADP	_	_	2	mod	_	_
 4	soi	lui	PRON	_	_	3	comp:obj	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	2	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_81
 # text = on apprend sur les autres.
@@ -1348,6 +1428,7 @@
 4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	autres	autre	PRON	_	Gender=Masc|Number=Plur	3	comp:obj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_82
 # text = et euh et j'aime beaucoup la notion de de partage.
@@ -1365,6 +1446,7 @@
 11	partage	partage	NOUN	_	Gender=Masc|Number=Sing	10	comp:obj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	_
 
+
 # sent_id = ParisStories_2019_experienceFac_83
 # text = je trouve que c'est agréable.
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/7fd8e2485c6f0ac8a57ee9edde90ab97c3e3fe8c
@@ -1375,6 +1457,7 @@
 5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	comp:obj	_	_
 6	agréable	agréable	ADJ	_	Gender=Masc|Number=Sing	5	comp:pred	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_84
 # text = et euh ouais j'ai fait des belles rencontres.
@@ -1389,6 +1472,7 @@
 8	belles	beau	ADJ	_	Gender=Fem|Number=Plur	9	mod	_	_
 9	rencontres	rencontre	NOUN	_	Gender=Fem|Number=Plur	6	comp:obj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	5	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_85
 # text = et et même avec les professeurs je trouve que la relation est est différente.
@@ -1408,6 +1492,7 @@
 13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj:dicto	_	_
 14	différente	différent	ADJ	_	Gender=Fem|Number=Sing	13	comp:pred	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	8	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_86
 # text = euh il y en a avec qui on crée euh des liens vraiment, avec qui on s'entend bien.
@@ -1433,6 +1518,7 @@
 19	entend	entendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj:dicto	_	_
 20	bien	bien	ADV	_	_	19	mod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	5	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_87
 # text = et euh j'ai remarqué souvent les cours d'ailleurs euh en petit groupe ça permet de de plus discuter et parfois euh ça rend le cours encore plus intéressant.
@@ -1468,6 +1554,7 @@
 29	plus	plus	ADV	_	_	30	mod	_	_
 30	intéressant	intéressant	ADJ	_	Gender=Masc|Number=Sing	27	mod	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	25	punct	_	_
+
 
 # sent_id = ParisStories_2019_experienceFac_88
 # text = enfin voilà, voilà l'expérience que j'ai de la fac.
