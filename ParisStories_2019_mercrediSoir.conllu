@@ -3,7 +3,7 @@
 # sent_id = ParisStories_2019_mercrediSoir_1
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d6eb01m0/59fb2f588aa07840b770f8758ac09abb7bcf07cf
 1	ouais	ouais	INTJ	_	_	3	discourse	_	_
-2	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	3	subj	_	SpaceAfter=No
+2	c'	ce	PRON	_	Person=3|PronType=Dem	3	subj	_	SpaceAfter=No
 3	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 4	sympa	sympa	ADJ	_	Gender=Masc|Number=Sing	3	comp:pred	_	_
 5	euh	euh	INTJ	_	_	3	discourse	_	SpaceAfter=No
