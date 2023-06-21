@@ -26,7 +26,7 @@
 # text = vas-y.
 1	vas	aller	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=1153|AlignEnd=1487|SpaceAfter=No|wordform=vas-y
 2	-y	y	PRON	_	Person=3|PronType=Prs	1	comp:obj	_	SpaceAfter=No
-3	.	.	PUNCT	_	_	1	punct	_	AlignBegin=1487|AlignEnd=1487
+3	.	.	PUNCT	_	_	_	_	_	AlignBegin=1487|AlignEnd=1487
 
 # sent_id = ParisStories_2022_6_tetedeNeuneu__3
 # sound_url = https://api.nakala.fr/embed/10.34847/nkl.bf05evl1/1e3c003fb1cc9a7787c17100ba141af556e72824
