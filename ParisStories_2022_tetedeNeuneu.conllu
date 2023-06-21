@@ -11,7 +11,7 @@
 6	,	,	PUNCT	_	_	5	punct	_	AlignBegin=2332|AlignEnd=2332
 7	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	subj	_	AlignBegin=2332|AlignEnd=2509
 8	m'	lui	PRON	_	_	10	comp:obl	_	AlignBegin=2509|AlignEnd=2687|SpaceAfter=No
-9	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=2687|AlignEnd=2865
+9	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	AlignBegin=2687|AlignEnd=2865
 10	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	comp:aux@tense	_	AlignBegin=2865|AlignEnd=3043
 11	qu'	qu'	SCONJ	_	_	10	comp:obj	_	AlignBegin=3043|AlignEnd=3220|SpaceAfter=No
 12	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	subj	_	AlignBegin=3220|AlignEnd=3398
